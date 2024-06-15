@@ -23,5 +23,5 @@ Objective:
 
 ✔ Top Scorer of IPL 2022
 ➡ Key findings: Jos Buttler dominated the batting charts, finishing as the top scorer with a high score of 106.
-![Screenshot (17)](https://github.com/subhajitdey295/Python_IPL2022_Analysis/assets/73297451/88262dab-31a1-41ba-8f0a-1bd5095cc28b)
+![Screenshot (1)](https://github.com/subhajitdey295/Python_IPL2022_Analysis/assets/73297451/5f737498-ea16-433c-8f8c-d95d834d41d8)
 
