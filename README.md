@@ -1,5 +1,4 @@
-# IPL2022_Match_Analysis_Using_Python
-(Link: https://nbviewer.org/github/subhajitdey295/Python_IPL2022_Analysis/blob/main/IPL%202022.ipynb)
+# IPL 2022 Match Analysis Using Python
 
 Objective:
 ✔ Number of matches won by each team in IPL 2022
